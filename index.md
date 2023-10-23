@@ -1,11 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
 ---
-
-# Background
 
 Emerging machine-learning research (e.g., in language, vision, and game
 playing) has made incredible progress across a wide range of tasks. Current
@@ -13,7 +8,7 @@ systems can detect and classify objects in images with high accuracy, beat
 experts at difficult games, and generate high-quality image and language
 content that specifically responds to a user's natural language prompts. While
 these approaches are able to achieve human-like performance, one area that is
-currently under explored is how to realize *human-like learning* capabilities
+currently under explored is how to realize **human-like learning** capabilities
 within these systems. For example, machine learning typically employs batch
 training and requires more data and computation than people to achieve similar
 capabilities. The resulting models are effective, but difficult to update in
@@ -54,10 +49,10 @@ more efficient machine-learning systems.
 There are several characteristics of human learning that could serve as targets
 for a general research program. Langley (2022) highlights several that could
 serve as anchors to motivate the symposium discussions:
-- Expertise is acquired in a *piecemeal* manner, with one element being added at a time.
-- Learning is an *incremental* activity that processes one experience at a time.
-- Learning is *guided by prior experience*, which aids in the interpretation of new experiences.
-- Expertise is acquired and refined *rapidly*, from *few training cases*.
+- Expertise is acquired in a **piecemeal** manner, with one element being added at a time.
+- Learning is an **incremental** activity that processes one experience at a time.
+- Learning is **guided by prior experience**, which aids in the interpretation of new experiences.
+- Expertise is acquired and refined **rapidly**, from **few training cases**.
 
 This list is not exhaustive and only serves to provide initial motivation. We
 will encourage participants to propose, highlight, and discuss features of
@@ -76,42 +71,42 @@ and proposed research into how to create artificial systems that exhibit
 human-like learning capabilities. Many different research efforts—spanning
 multiple methodological paradigms—have emphasized some aspects of human-like
 learning:
-- *Cognitive architectures*: Researchers in this area have identified and
+- **Cognitive architectures**: Researchers in this area have identified and
   operationalized several human-like learning assumptions, such as the
   assumption that "learning occurs online and incrementally" (Laird, Lebiere, &
   Rosenbloom, 2017)
-- *Interactive task learning*: This paradigm emphasizes the incremental,
+- **Interactive task learning**: This paradigm emphasizes the incremental,
   multimodal acquisition of new task knowledge from a limited amount of
   interactive instruction provided by human teachers (Laird et al., 2017); early
   examples include systems like AnimNL (Webber, Badler, Di Eugenio, Geib,
   Levison, & Moore, 1995)  and more recent examples include  AILEEN (Mohan,
   Klenk, Shreve, Evans, Ang, & Maxwell, 2020) and ONYX (Ruoff, Myers, & Maedche,
   2023).
-- *Extended/continual learning*: A class of approaches that emphasizes learning
+- **Extended/continual learning**: A class of approaches that emphasizes learning
   of different types of knowledge or functions over extended durations (e.g.,
   years); a notable example is NELL (Mitchell et al., 2018), which continually
   crawls the web and grows and refines its relational ontology based on what it
   learns.
-- *Probabilistic programming*: This paradigm emphasizes the use of Bayesian
+- **Probabilistic programming**: This paradigm emphasizes the use of Bayesian
   priors (over both internal structures and parameters) to guide and constrain
   learning, which enables the acquisition of new concepts with few examples
   (Lake, Salakhutdinov, & Tenenbaum, 2015).
-- *Concept formation*: Systems like Cobweb (Fisher & Langley, 1990; Fisher & Yoo,
+- **Concept formation**: Systems like Cobweb (Fisher & Langley, 1990; Fisher & Yoo,
   1993; MacLellan, Matsakis, & Langley, 2022) emphasize the incremental,
   piecemeal acquisition of concepts and rapid, few-example learning. 
-- *Analogical and case-based learning*: The SAGE (McLure, Friedman, & Forbus,
+- **Analogical and case-based learning**: The SAGE (McLure, Friedman, & Forbus,
   2015) system leverages analogical processing to support efficient, few
   example learning over structured representations.
-- *Logic-based learning*: Recent work on this topic emphasizes the induction of
+- **Logic-based learning**: Recent work on this topic emphasizes the induction of
   modular knowledge structures that can be composed at performance and guide
   subsequent learning (Cropper, Dumančić, & Muggleton, 2020).
-- *Simulated students*: Efforts to simulate human novices has highlighted the
+- **Simulated students**: Efforts to simulate human novices has highlighted the
   importance of prior knowledge and self-explanation in guiding subsequent
   learning (VanLehn, Jones, & Chi, 1991) and emphasized comparison of human and
   machine behavior—both correct and incorrect—as a tool to better understand and
   simulate human learning (MacLellan, Harpstead, Patel, Koedinger, 2016;
   Weitekamp, Ye, Rachatasumrit, Harpstead, & Koedinger, 2020).
-- *Human-like neural network approaches*: Although most current neural network
+- **Human-like neural network approaches**: Although most current neural network
   approaches do not emphasize human-like learning, there are some efforts that
   do. One recent example investigates how to model humans’ ability to learn
   increasingly complex skills across a lifespan without major instances of
@@ -133,13 +128,13 @@ Research on this topic will need some way to measure progress. Thus, another
 major aim of the symposium will be to discuss how to evaluate systems with
 human-like capabilities. Here are a few potential evaluations participants
 might discuss:
-- assessing systems based on their *learning efficiency*, rather than final
+- assessing systems based on their **learning efficiency**, rather than final
   performance; 
-- measuring *fits to human behavioral data*, both quantitative and qualitative;
-- establishing a set of *target capabilities*, with qualitative measures of
+- measuring **fits to human behavioral data**, both quantitative and qualitative;
+- establishing a set of **target capabilities**, with qualitative measures of
   attainment;
-- evaluating human-like learning systems in terms of *ease of use* and
-  acceptance by *human users* who are interacting with them.
+- evaluating human-like learning systems in terms of **ease of use** and
+  acceptance by **human users** who are interacting with them.
 
 These are just a selection of several potential evaluation ideas and a key
 deliverable of the symposium will be to solicit participants ideas about

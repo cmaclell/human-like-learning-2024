@@ -13,14 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AAAI 2024 Spring Symposium on Human-Like Learning
-email: cmaclell@gatech.edu
+title: Human-Like Learning
+author: Christopher J. MacLellan
+homepage: https://chrismaclellan.com
+labpage: https://tail.cc.gatech.edu
+labtitle: Teachable AI Lab
 description: >- # this means to ignore newlines until "baseurl:"
-  Information on the AAAI 2024 Spring Symposium on Human-Like Learning.
+  Exploring how human-like learning can be realized in artificial systems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: cmaclell
+# twitter_username: cmaclell
 github_username:  cmaclell
+mastodon:
+ - username: cmaclell
+   instance: sigmoid.social
 
 # Build settings
 markdown: kramdown

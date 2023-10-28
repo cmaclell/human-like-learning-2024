@@ -16,6 +16,7 @@ order: 1
 | Abstracts Due                                     | December 22nd, 2023 |
 | Selected Presenters Notified                      | January 5th, 2024   |
 | AAAI Symposium Registration Opens                 | January 10th, 2024  |
+| Finalized Abstracts Due                           | January 19th, 2024  |
 | Deadline for Registration                         | Febuary 29th, 2024  |
 | Finalized Schedule Released                       | March 2nd, 2024     |
 | Symposium Takes Place at Stanford University      | March 25-27, 2024   |

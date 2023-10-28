@@ -9,7 +9,7 @@ order: 1
 * TOC
 {:toc}
 
-## Event Information
+## Important Event Information
 
 | Key Dates                                         |                     |
 |---------------------------------------------------|---------------------|

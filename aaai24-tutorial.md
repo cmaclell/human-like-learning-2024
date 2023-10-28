@@ -10,24 +10,35 @@ order: 2
 * TOC
 {:toc}
 
+## Important Event Information
+
+| Key Dates                                                |                     |
+|----------------------------------------------------------|---------------------|
+| AAAI Early Registration Deadline                         | December 20th, 2023 |
+| Course Materials Posted to Website                       | Febuary 1st, 2024   |
+| AAAI-24 Tutorial Takes Place in Vancouver, BC, Canada    | January 10th, 2024  |
+
+You can register for AAAI and the Tutorial and Lab Forum at the [conference
+website](https://aaai.org/aaai-conference/registration/). We recommend
+registering early, but it is also possible to register anytime up until the
+event itself (AAAI-24 allows for late and on-site registration).
+
 ## Overview 
 
 <div style="float:right; padding: 15px;">
 <img src="/files/cobweb-tutorial.png" alt="A detailed illustration depicts a modern classroom or workshop setting with a large digital display at the front. The screen showcases various machine learning concepts, including Bayesian Models, Decision Trees, Nearest Neighbor, and Clustering. Each concept is visually represented by corresponding graphs and models. A tree-like network structure with vibrant nodes radiates from the center of the screen. In front of the display, an instructor, holding a pointer, explains the concepts to an older individual. Below them, a group of diverse individuals sits around a horseshoe-shaped table, equipped with advanced touch-screen monitors, attentively listening and interacting with their devices. The ambiance is studious, with a futuristic touch symbolizing the advanced nature of the subject matter." style="height: 350px;">
 </div>
 
-This year we will be hosting a tutorial on probabilistic concept formation with
-[Cobweb](https://github.com/cmaclell/concept_formation) at the AAAI-24
-conference in Vancouver. This year's AAAI-24 Tutorial and Lab Forum will be
-held on Tuesday and Wednesday, February 20 and 21. This tutorial will offer an
-introduction to the Cobweb family of concept formation approaches (Fisher,
-1987). This class of methods supports incremental, unsupervised learning from a
-continuous stream of examples (Fisher, Pazzani, & Langley, 2014). Throughout
-the tutorial, we explore the core theory underlying Cobweb as well as several
-extensions and applications (e.g., to language and vision tasks). We will also
-demonstrate its use through practical examples to real-world scenarios. This
-tutorial will provide participants with the knowledge and hands-on experience
-required to effectively apply Cobweb to their own tasks.
+This tutorial will offer an introduction to the
+[Cobweb](https://github.com/cmaclell/concept_formation) family of concept
+formation approaches (Fisher, 1987). This class of methods supports
+incremental, unsupervised learning from a continuous stream of examples
+(Fisher, Pazzani, & Langley, 2014). Throughout the tutorial, we explore the
+core theory underlying Cobweb as well as several extensions and applications
+(e.g., to language and vision tasks). We will also demonstrate its use through
+practical examples to real-world scenarios. This tutorial will provide
+participants with the knowledge and hands-on experience required to effectively
+apply Cobweb to their own tasks.
 
 **Keywords:** Concept formation, Incremental learning, Unsupervised Classification, Cobweb
 

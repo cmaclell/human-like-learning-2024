@@ -78,7 +78,7 @@ themes:
   exhibit human-like learning;
 - Approaches for evaluating human-like learning systems; and
 - Exploration of the broader context for and impacts of human-like learning
-  systems , such as how they might complement/benefit current machine learning
+  systems, such as how they might complement/benefit current machine learning
   systems and humanity.
 
 ### Characteristics of Human Learning
@@ -105,11 +105,11 @@ backgrounds.
 
 ### Creating Human-Like Learning Systems
 
-Given this focus, the major focus of the symposium will be to explore ongoing
-and proposed research into how to create artificial systems that exhibit
-human-like learning capabilities. Many different research efforts—spanning
-multiple methodological paradigms—have emphasized some aspects of human-like
-learning:
+Given these characteristics, the major focus of the symposium will be to
+explore ongoing and proposed research into how to create artificial systems
+that exhibit human-like learning capabilities. Many different research
+efforts—spanning multiple methodological paradigms—have emphasized some aspects
+of human-like learning:
 - **Cognitive architectures**: Researchers in this area have identified and
   operationalized several human-like learning assumptions, such as the
   assumption that "learning occurs online and incrementally" (Laird, Lebiere, &

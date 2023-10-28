@@ -3,7 +3,7 @@ layout: home
 ---
 
 <p align="center">
-<img src="/files/homepage-banner.png" alt="A digital representation of a human brain split in two halves, with the left side depicting neural pathways and glowing synapses, and the right side illustrating electronic circuits, lights, and digital nodes. The two halves symbolize the convergence of brain and technology." style="height: 250px;">
+<img src="/files/homepage-banner.png" alt="A digital representation of a human brain split in two halves, with the left side depicting neural pathways and glowing synapses, and the right side illustrating electronic circuits, lights, and digital nodes. The two halves symbolize the convergence of brain and technology." style="max-height: 250px;">
 </p>
 
 Humans are incredible learners---able to rapidly assimilate new information on

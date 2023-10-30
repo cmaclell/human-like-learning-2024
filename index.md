@@ -16,8 +16,8 @@ systems, and then explore how to design systems with these capabilities.
 
 Research in this area has the potential to produce systems that:
 - learn more efficiently, yielding a smaller energy and carbon footprint;
-- learn from less data, translating into less need for proprietary data and data workers;
-- update on the fly, able to adapt users in realtime in response to their inputs;
+- learn from less data, translating into better performance in situations where data is difficult to collect or proprietary;
+- update on the fly, able to adapt to users in realtime in response to their inputs;
 - learn continually, staying abreast of a constant stream of data without
   forgetting previous capabilities; and
 - many others.

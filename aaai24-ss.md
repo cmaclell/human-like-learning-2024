@@ -21,8 +21,17 @@ order: 1
 | Finalized Schedule Released                       | March 2nd, 2024     |
 | Symposium Takes Place at Stanford University      | March 25-27, 2024   |
 
-The abstract submission and symposium registration links will be posted
-here when available.
+When preparing abstracts use the [AAAI-24 Author
+Kit](https://aaai.org/authorkit24-2/). The abstracts can be brief, but should
+provide sufficient detail for the organizing committee to determine the focus
+and substance of your proposed talk for planning purposes.
+
+Please submit abstract via
+[easychair](https://easychair.org/my/conference?conf=sss24) to the "Symposium
+on Human-Like Learning" track. 
+
+The symposium registration details will be posted here when they become
+available from AAAI. 
 
 ## Motivation and Background
 

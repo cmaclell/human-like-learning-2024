@@ -306,7 +306,7 @@ Please use the [AAAI Author Kit](https://aaai.org/authorkit24-2/)
 for your abstract submission, to ensure formatting across submissions is
 consistent.
 
-Please submit abstracts via easychair.
+Please submit abstracts via [easychair](https://easychair.org/my/conference?conf=sss24).
 
 ## Symposium Organizers
 

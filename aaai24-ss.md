@@ -22,7 +22,8 @@ order: 1
 | Symposium Takes Place at Stanford University      | March 25-27, 2024   |
 
 When preparing abstracts use the [AAAI-24 Author
-Kit](https://aaai.org/authorkit24-2/). The abstracts can be brief, but should
+Kit](https://aaai.org/authorkit24-2/). There is no explicit requirement on
+length and no anonymization is required. Abstracts can be brief, but should
 provide sufficient detail for the organizing committee to determine the focus
 and substance of your proposed talk for planning purposes.
 

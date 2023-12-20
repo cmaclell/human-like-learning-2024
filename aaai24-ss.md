@@ -21,18 +21,19 @@ order: 1
 | Finalized Schedule Released                       | March 2nd, 2024     |
 | Symposium Takes Place at Stanford University      | March 25-27, 2024   |
 
-When preparing abstracts use the [AAAI-24 Author
+When preparing abstracts, please use the [AAAI-24 Author
 Kit](https://aaai.org/authorkit24-2/). There is no explicit requirement on
-length and no anonymization is required. Abstracts can be brief, but should
-provide sufficient detail for the organizing committee to determine the focus
-and substance of your proposed talk for planning purposes.
+length and no anonymization is required. We envision that submissions could be
+as short as 1 paragraph and probably no more than 1-2 pages. They can be brief,
+but should provide sufficient detail for the organizing committee to determine
+the focus and substance of your proposed talk for planning purposes. Also, we
+plan to link to the titles/abstracts in the schedule.
 
 Please submit abstract via
 [easychair](https://easychair.org/my/conference?conf=sss24) to the "Symposium
 on Human-Like Learning" track. 
 
-The symposium registration details will be posted here when they become
-available from AAAI. 
+Registration details can be found [on the AAAI 2024 Spring Symposium page](https://aaai.org/conference/spring-symposia/sss24/).
 
 ## Motivation and Background
 
@@ -303,9 +304,13 @@ session during the first day. In choosing presenters, the committee will give
 preference to submissions that are more closely aligned to the overarching
 theme, while also trying to give coverage to different aspects of the theme.
 
-Please use the [AAAI Author Kit](https://aaai.org/authorkit24-2/)
+As mentioned earlier, please use the [AAAI Author Kit](https://aaai.org/authorkit24-2/)
 for your abstract submission, to ensure formatting across submissions is
-consistent.
+consistent. There is no explicit requirement on length and no anonymization is
+required. We envision that submissions could be as short as 1 paragraph and
+probably no more than 1-2 pages. They can be brief, but should provide
+sufficient detail for the organizing committee to determine the focus and
+substance of your proposed talk for planning purposes.
 
 Please submit abstracts via [easychair](https://easychair.org/my/conference?conf=sss24).
 

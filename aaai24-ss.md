@@ -21,19 +21,25 @@ order: 1
 | Finalized Schedule Released                       | March 2nd, 2024     |
 | Symposium Takes Place at Stanford University      | March 25-27, 2024   |
 
-When preparing abstracts, please use the [AAAI-24 Author
-Kit](https://aaai.org/authorkit24-2/). There is no explicit requirement on
-length and no anonymization is required. We envision that submissions could be
-as short as 1 paragraph and probably no more than 1-2 pages. They can be brief,
-but should provide sufficient detail for the organizing committee to determine
-the focus and substance of your proposed talk for planning purposes. Also, we
-plan to link to the titles/abstracts in the schedule.
+### Submission Details:
+- We invite submissions of abstracts, either short (minimum one paragraph) or
+  extended (up to 2 pages).
+- Abstracts can be brief, but should provide sufficient detail for the
+  organizing committee to determine the focus and substance of your proposed
+  talk for planning purposes. Also, we plan to link to the titles/abstracts in
+  the schedule and symposia proceedings.
+- Abstracts should be formatted using the AAAI Author Kit (https://aaai.org/authorkit24-2/).
+- Submit abstracts via [EasyChair](https://easychair.org/my/conference?conf=sss24) to the "Symposium
+  on Human-Like Learning".
+- Participants will have the opportunity to finalize their abstract (by January
+  19th, see table above) before it appears on the website or in the symposia
+  proceedings.
+- Submissions not selected for talks will be invited to participate in a poster session.
+- If there is interest at the symposia, we will explore a possible journal
+  special issue or edited volume based on submissions. 
 
-Please submit abstract via
-[easychair](https://easychair.org/my/conference?conf=sss24) to the "Symposium
-on Human-Like Learning" track. 
-
-Registration details can be found [on the AAAI 2024 Spring Symposium page](https://aaai.org/conference/spring-symposia/sss24/).
+### Registration Details
+You can register at the [AAAI 2024 Spring Symposium page](https://aaai.org/conference/spring-symposia/sss24/).
 
 ## Motivation and Background
 
@@ -293,26 +299,6 @@ community of dedicated researchers who are enthusiastic about investigating
 human-like learning. This in turn should promote additional research in this
 important area. If there is sufficient interest, we will organize a publication
 (e.g., a journal special issue) that reports results from the event.
-
-## Abstract Submissions
-
-Authors will submit abstracts, which the organizing committee will use to
-decide on session topics and presentations. Abstracts will also be
-shared with attendees before the start of the symposium. Authors of submissions
-that are not presented as talks will be invited to participate in a poster
-session during the first day. In choosing presenters, the committee will give
-preference to submissions that are more closely aligned to the overarching
-theme, while also trying to give coverage to different aspects of the theme.
-
-As mentioned earlier, please use the [AAAI Author Kit](https://aaai.org/authorkit24-2/)
-for your abstract submission, to ensure formatting across submissions is
-consistent. There is no explicit requirement on length and no anonymization is
-required. We envision that submissions could be as short as 1 paragraph and
-probably no more than 1-2 pages. They can be brief, but should provide
-sufficient detail for the organizing committee to determine the focus and
-substance of your proposed talk for planning purposes.
-
-Please submit abstracts via [easychair](https://easychair.org/my/conference?conf=sss24).
 
 ## Symposium Organizers
 

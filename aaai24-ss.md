@@ -11,7 +11,8 @@ order: 1
 
 ## Important Event Information
 
-| Key Dates All deadlines are 11:59pm UTC-12:00 (anywhere on Earth) |                     |
+| Key Dates  
+All deadlines are 11:59pm UTC-12:00 (anywhere on Earth) |                     |
 |---------------------------------------------------|---------------------|
 | Abstracts Due                                     | ~~December 22nd, 2023~~  
 January 10, 2024|

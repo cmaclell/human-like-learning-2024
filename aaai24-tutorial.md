@@ -16,7 +16,7 @@ order: 2
 |----------------------------------------------------------|---------------------|
 | AAAI Early Registration Deadline                         | December 20th, 2023 |
 | Course Materials Posted to Website                       | February 1st, 2024   |
-| AAAI-24 Tutorial Takes Place in Vancouver, BC, Canada    | February 10th, 2024  |
+| AAAI-24 Tutorial Takes Place in Vancouver, BC, Canada    | February 21st, 2024 from 8:30am-12:30pm  |
 
 You can register for AAAI and the Tutorial and Lab Forum at the [conference
 website](https://aaai.org/aaai-conference/registration/). We recommend

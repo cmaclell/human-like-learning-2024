@@ -22,8 +22,8 @@ order: 1
 | Symposium Takes Place at Stanford University      | March 25-27, 2024   |
 
 ### Submission Details:
-- We invite submissions of abstracts, either short (minimum one paragraph) or
-  extended (up to 2 pages).
+- We invite submissions of abstracts. We have no hard length requirements, but
+  recommend a short (minimum one paragraph) or extended format (up to 2 pages).
 - Abstracts can be brief, but should provide sufficient detail for the
   organizing committee to determine the focus and substance of your proposed
   talk for planning purposes. Also, we plan to link to the titles/abstracts in

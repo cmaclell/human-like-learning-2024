@@ -32,7 +32,7 @@ order: 1
 - Submit abstracts via [EasyChair](https://easychair.org/my/conference?conf=sss24) to the "Symposium
   on Human-Like Learning".
 - Participants will have the opportunity to finalize their abstract (by January
-  19th, see table above) before it appears on the website or in the symposia
+  26th, see table above) before it appears on the website or in the symposia
   proceedings.
 - Submissions not selected for talks will be invited to participate in a poster session.
 - If there is interest at the symposia, we will explore a possible journal

@@ -238,7 +238,7 @@ schedule.
 
 ### Tentative Day 1 Schedule (3/25)
 
-| Start | End   | Title / Activity                                                                                                         | Speakers                                           |
+| Start | End   | Title / Activity                                                                                                         | Authors                                           |
 |-------|-------|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
 | 9:00  | 9:30  | Welcome & Introduction                                                                                                   | Christopher MacLellan                              |
 | 9:30  | 10:00 | The Computational Gauntlet of Human-Like Learning                                                                        | Pat Langley                                        | 
@@ -268,24 +268,24 @@ schedule.
 
 ### Tentative Day 2 Schedule (3/26)
 
-| Start | End   | Activity                                     |
+| Start | End   | Title / Activity                                     | Authors |
 |-------|-------|----------------------------------------------|
-| 9:00  | 9:30  | Technical Presentation 7                     |
-| 9:30  | 10:00 | Technical Presentation 8                     |
-| 10:00 | 10:30 | Technical Presentation 9                     |
-| 10:30 | 11:00 | Break                                        |
-| 11:00 | 11:30 | Technical Presentation 10                    |
-| 11:30 | 12:00 | Technical Presentation 11                    |
-| 12:00 | 12:30 | Technical Presentation 12                    |
-| 12:30 | 2:00  | Lunch                                        |
-| 2:00  | 2:30  | Technical Presentation 13                    |
-| 2:30  | 3:00  | Technical Presentation 14                    |
-| 3:00  | 3:30  | Technical Presentation 15                    |
-| 3:30  | 4:00  | Break                                        |
-| 4:00  | 4:30  | Technical Presentation 16                    |
-| 4:30  | 5:00  | Technical Presentation 17                    |
-| 5:00  | 5:30  | Reflection & Discussion Session              |
-| 6:00  | 7:00  | AAAI Plenary Session                         |
+| 9:00  | 9:30  | Analogy as the Swiss Army Knife of Human-like Learning                     | Kenneth Forbus |
+| 9:30  | 10:00 | Human-Like Learning of Social Reasoning via Analogy                     | Irina Rabkina |
+| 10:00 | 10:30 | Constructing Deep Concepts through Shallow Search                     | Bonan Zhao, Christopher G. Lucas, and Neil R. Bramley |
+| 10:30 | 11:00 | Break                                        || 
+| 11:00 | 11:30 | Avoiding Catastrophic Forgetting in Visual Classification using Human-Like Concept Formation  | Nicki Barari, Xin Lian and Christopher MacLellan |
+| 11:30 | 12:00 | Human-like Learning in Temporally Structured Environments                    | Matt Jones, Tyler Scott and Michael Mozer |
+| 12:00 | 12:30 | Pushing the Limits of Learning from Limited Data         | Maya Malaviya, Ilia Sucholutsky and Thomas Griffiths |
+| 12:30 | 2:00  | Lunch                                        ||
+| 2:00  | 2:30  | Discussion Session                           ||
+| 2:30  | 3:00  | Do Large Language Models Learn to Human-Like Learn?  | Jesse Roberts |
+| 3:00  | 3:30  | Toward Autonomy: Metacognitive Learning for Enhanced AI Performance  | Brendan Conway-Smith and Robert West |
+| 3:30  | 4:00  | Break                                        ||
+| 4:00  | 4:30  | Turtle-like Geometry Learning: How Humans and Machines Differ in Learning Turtle Geometry | Sina Rismanchian, Shayan Doroudi and Yasaman Razeghi |
+| 4:30  | 5:00  | Turing-like Experiment in a Cyber Defense Game  | Yinuo Du, Baptiste Prebot and Cleotilde Gonzalez |
+| 5:00  | 5:30  | Reflection & Discussion Session              ||
+| 6:00  | 7:00  | AAAI Plenary Session                         ||
 
 ### Tentative Day 3 Schedule (3/27)
 

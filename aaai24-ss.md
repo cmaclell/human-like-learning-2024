@@ -246,13 +246,24 @@ schedule.
 | 10:30 | 11:00 | Break                                                                                                                    |                                                    | 
 | 11:00 | 11:30 | Why Should We Care If Machines Learn Human-Like Representations?                                                         | Ilia Sucholutsky and Thomas Griffiths              |
 | 11:30 | 12:00 | Rational Concept Acquisition and Categorization with Cobweb: Human-Like Learning Meets Human Categorization Plausibility | Xin Lian, Sashank Varma, and Christopher MacLellan |
-| 12:00 | 12:30 | Technical Presentation 3                     ||
+| 12:00 | 12:30 | Toward Human-Like Representation Learning for Cognitive Architectures                                                    | Steven Jones and Peter Lindes                      |
 | 12:30 | 2:00  | Lunch                                        ||
-| 2:00  | 2:30  | Technical Presentation 4                     ||
-| 2:30  | 3:00  | Technical Presentation 5                     ||
-| 3:00  | 3:30  | Technical Presentation 6                     ||
+| 2:00  | 2:30  | Task-driven Risk-bounded Hierarchical Reinforcement Learning Based on Iterative Refinement     | Viraj Parimi, Sungkweon Hong and Brian Williams |
+| 2:30  | 3:00  | Credit Assignment: Challenge and Opportunities in Developing Human-Like Learning Agents | Thuy Ngoc Nguyen, Chase McDonald and Cleotilde Gonzalez |
+| 3:00  | 3:30  | Algorithmic Decision-Making in Difficult Scenarios   | Christopher Rauch, Ursula Addison, Michael Floyd, Goel Prateek, Justin Karneeb, Ray Kulhanek, Othalia Larue, David Ménager, Mallika Mainali, Matthew Molineaux, Adam Pease, Anik Sen, Jt Turner and Rosina Weber |
 | 3:30  | 4:00  | Break                                        ||
-| 4:00  | 5:30  | Poster Session                               ||
+| 4:00  | 5:30  | **Poster Session**                               ||
+|       |       | Comparing human behavior to an optimal policy for innovation | Bonan Zhao, Natalia Velez, Thomas Griffiths |
+|       |       | Embodying Human-Like Modes of Balance Control Through Human-In-the-Loop Dyadic Learning | Sheikh Mannan, Vivekanand Vimal, Paul DiZio and Nikhil Krishnaswamy |
+|       |       | A Bayesian approach to learned trust and communication in few and zero-shot multi-agent environments | Timothy Flavin and Sandip Sen |
+|       |       | Teaching Functions with Gaussian Process Regression | Maya Malaviya and Mark Ho |
+|       |       | Imparting Translation Concepts to Large Language Models: Challenges with Instructional and Few-Shot Approach | Ming Qian and Chuiqing Kong |
+|       |       | Capturing Subjective Aesthetic Expertise through Designer-Like Learning and Practice | Yaliang Chuang and Poyang David Huang |
+|       |       | A Neural-symbolic Model of Affective AI Agents' Decision-making Behaviors under Risk | Jonathan C.H. Tong, Yung-Fong Hsu and Churn-Jung Liau |
+|       |       | Learning Decision-Making Functions Given Cardinal and Ordinal Consensus Data | Kanad Pardeshi, Aarti Singh, Ariel Procaccia and Itai Shapira |
+|       |       | A Model of Cognizing Supporting the Origination of Cognizing in Nature | Edward Pgossian |
+|       |       | FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design | Yangyang Yu, Haohang Li, Zhi Chen, Yuechen Jiang, Yang Li, Denghui Zhang, Rong Liu, Jordan Suchow and Khaldoun Khashanah |
+|       |       | Toward More Reliable Learning Models through Human-Inspired Learning | Nicki Barari, Christopher MacLellan and Edward Kim |
 | 6:00  | 7:00  | AAAI Symposium Reception                     ||
 
 ### Tentative Day 2 Schedule (3/26)

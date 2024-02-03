@@ -238,22 +238,22 @@ schedule.
 
 ### Tentative Day 1 Schedule (3/25)
 
-| Start | End   | Activity                                     |
-|-------|-------|----------------------------------------------|
-| 9:00  | 9:30  | Welcome & Introduction                       |
-| 9:30  | 10:00 | Invited Speaker 1                            |
-| 10:00 | 10:30 | Invited Speaker 2                            |
-| 10:30 | 11:00 | Break                                        |
-| 11:00 | 11:30 | Technical Presentation 1                     |
-| 11:30 | 12:00 | Technical Presentation 2                     |
-| 12:00 | 12:30 | Technical Presentation 3                     |
-| 12:30 | 2:00  | Lunch                                        |
-| 2:00  | 2:30  | Technical Presentation 4                     |
-| 2:30  | 3:00  | Technical Presentation 5                     |
-| 3:00  | 3:30  | Technical Presentation 6                     |
-| 3:30  | 4:00  | Break                                        |
-| 4:00  | 5:30  | Poster Session                               |
-| 6:00  | 7:00  | AAAI Symposium Reception                     |
+| Start | End   | Title / Activity                                                                                                         | Speakers                                           |
+|-------|-------|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| 9:00  | 9:30  | Welcome & Introduction                                                                                                   | Christopher MacLellan                              |
+| 9:30  | 10:00 | The Computational Gauntlet of Human-Like Learning                                                                        | Pat Langley                                        | 
+| 10:00 | 10:30 | Learning Fast and Slow: A Redux of Levels of Learning in General Autonomous Intelligent Agents                           | Shiwali Mohan and John Laird                       |
+| 10:30 | 11:00 | Break                                                                                                                    |                                                    | 
+| 11:00 | 11:30 | Why Should We Care If Machines Learn Human-Like Representations?                                                         | Ilia Sucholutsky and Thomas Griffiths              |
+| 11:30 | 12:00 | Rational Concept Acquisition and Categorization with Cobweb: Human-Like Learning Meets Human Categorization Plausibility | Xin Lian, Sashank Varma, and Christopher MacLellan |
+| 12:00 | 12:30 | Technical Presentation 3                     ||
+| 12:30 | 2:00  | Lunch                                        ||
+| 2:00  | 2:30  | Technical Presentation 4                     ||
+| 2:30  | 3:00  | Technical Presentation 5                     ||
+| 3:00  | 3:30  | Technical Presentation 6                     ||
+| 3:30  | 4:00  | Break                                        ||
+| 4:00  | 5:30  | Poster Session                               ||
+| 6:00  | 7:00  | AAAI Symposium Reception                     ||
 
 ### Tentative Day 2 Schedule (3/26)
 

@@ -289,14 +289,13 @@ schedule.
 
 ### Tentative Day 3 Schedule (3/27)
 
-| Start | End   | Activity                                     |
-|-------|-------|----------------------------------------------|
-| 9:00  | 9:30  | Day 3 Introduction                           |
-| 9:30  | 10:00 | Technical Presentation 18                    |
-| 10:00 | 10:30 | Technical Presentation 19                    |
-| 10:30 | 11:00 | Coffee Break                                 |
-| 11:00 | 11:30 | Technical Presentation 20                    |
-| 11:30 | 12:30 | Reflection & Discussion Session              |
+| Start | End   | Authors                       | Activity                                                                                           |
+|-------|-------|-------------------------------|----------------------------------------------------------------------------------------------------|
+| 9:00  | 9:30  | Daniel Weitekamp              | Decomposed Inductive Procedure Learning: Learning Academic Tasks with Human-Like Data Efficiency   |
+| 9:30  | 10:00 | Peter Lindes and Steven Jones | Modeling Human-Like Acquisition of Language and Concepts                                           |
+| 10:00 | 10:30 | Pat Langley                   | Rapid Acquisition of Hierarchical Plan Knowledge                                                   |
+| 10:30 | 11:00 |                               | Break                                                                                              |
+| 11:00 | 12:30 |                               | Reflection & Discussion Session                                                                    |
 
 We believe that this structure will encourage high-quality interaction among
 participants and foster cross-paradigm communication and collaboration. By

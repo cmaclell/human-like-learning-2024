@@ -132,15 +132,15 @@ or an edited book or journal special topic issue.
 |-------|-------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
 | 9:00  | 9:30  | [Analogy as the Swiss Army Knife of Human-like Learning][1125]                                                           | Kenneth D. Forbus                                       |
 | 9:30  | 10:00 | [Human-Like Learning of Social Reasoning via Analogy][1106]                                                              | Irina Rabkina                                           |
-| 10:00 | 10:30 | [Constructing Deep Concepts through Shallow Search][8449]                                                                | Bonan Zhao, Christopher G. Lucas, and Neil R. Bramley   |
+| 10:00 | 10:30 | [Pushing the Limits of Learning from Limited Data][0846]                                                                 | Maya Malaviya, Ilia Sucholutsky and Thomas L. Griffiths |
 | 10:30 | 11:00 | Break                                                                                                                    |                                                         | 
 | 11:00 | 11:30 | [Avoiding Catastrophic Forgetting in Visual Classification using Human-Like Concept Formation][6002]                     | Nicki Barari, Xin Lian and Christopher J. MacLellan     |
 | 11:30 | 12:00 | [Human-like Learning in Temporally Structured Environments][2351]                                                        | Matt Jones, Tyler Scott and Michael Mozer               |
-| 12:00 | 12:30 | [Pushing the Limits of Learning from Limited Data][0846]                                                                 | Maya Malaviya, Ilia Sucholutsky and Thomas L. Griffiths |
+| 12:00 | 12:30 | Discussion 1: What are the key characteristics of human learning we should aim to reproduce, and how might different approaches reproduce these characteristics? |                 |
 | 12:30 | 2:00  | Lunch                                                                                                                    |                                                         |
-| 2:00  | 2:30  | [Do Large Language Models Learn to Human-Like Learn?][7944]                                                              | Jesse Roberts                                           |
+| 2:00  | 2:30  | [Constructing Deep Concepts through Shallow Search][8449]                                                                | Bonan Zhao, Christopher G. Lucas, and Neil R. Bramley   |
 | 2:30  | 3:00  | [Toward Autonomy: Metacognitive Learning for Enhanced AI Performance][8457]                                              | Brendan Conway-Smith and Robert West                    |
-| 3:00  | 3:30  | Discussion 1: What are the key characteristics of human learning we should aim to reproduce, and how might different approaches reproduce these characteristics? |                 |
+| 3:00  | 3:30  | [Do Large Language Models Learn to Human-Like Learn?][7944]                                                              | Jesse Roberts                                           |
 | 3:30  | 4:00  | Break                                                                                                                    |                                                         |
 | 4:00  | 4:30  | [Turtle-like Geometry Learning: How Humans and Machines Differ in Learning Turtle Geometry][8514]                        | Sina Rismanchian, Shayan Doroudi and Yasaman Razeghi    |
 | 4:30  | 5:00  | [Turing-like Experiment in a Cyber Defense Game][7251]                                                                   | Yinuo Du, Baptiste Prebot and Cleotilde Gonzalez        |

@@ -95,21 +95,32 @@ paradigm.
 - **Future Directions and Q&A:** The final section covers future directions for
   the Cobweb paradigm and includes a general Q&A session.
 
-## Tentative Schedule
+## Schedule
 
-The tutorial will be structured into three parts, with Q&A sessions in between:
+The tutorial will be structured into four parts, with Q&A sessions and hand-on activities in between:
 
 | Start   | End     | Session                                               | Speaker                  |
 |---------|---------|-------------------------------------------------------|--------------------------|
 | 8:30am  |  9:15am | Foundational Cobweb Theory (35 min talk + 10 min Q&A) | Doug Fisher              |
-| 9:15am  |  9:30am | Hands-On Example of Cobweb with Tabular Data          | Christopher J. MacLellan |
+| 9:15am  |  9:30am | Hands-On Example of [Cobweb with Tabular Data](https://github.com/Teachable-AI-Lab/cobweb/blob/main/examples/tabular/)          | Christopher J. MacLellan |
 | 9:30am  | 10:15am | Early Cobweb Extensions (35 min talk + 10 min Q&A)    | Pat Langley              |
 | 10:15am | 10:30am | Hands-On Example of Cobweb with Continuous Data       | Christopher J. MacLellan |
 | 10:30am | 11:00am | Break                                                 | ---                      |
 | 11:00am | 11:45am | Recent Extensions of Cobweb (35 min talk + 10 min Q&A)| Christopher J. MacLellan |
-| 11:45am | 12:00pm | Hands-On Example of Cobweb with Language Data         | Christopher J. MacLellan |
-| 12:00pm | 12:15pm | Hands-On Example of Cobweb with Language Data         | Christopher J. MacLellan |
+| 11:45am | 12:00pm | Hands-On Example of [Cobweb on a Language Task](https://github.com/Teachable-AI-Lab/cobweb/tree/main/examples/language)          | Christopher J. MacLellan |
+| 12:00pm | 12:15pm | Hands-On Example of [Cobweb on a Vision Task](https://github.com/Teachable-AI-Lab/cobweb/tree/main/examples/vision)            | Christopher J. MacLellan |
 | 12:15pm | 12:30pm | Future Directions for Cobweb                          | Christopher J. MacLellan |
+
+## Cobweb Code
+
+We've created a repository specifically for this tutorial
+[here](https://github.com/Teachable-AI-Lab/cobweb). Please check out the repo
+before coming and consider trying to install the package (via pip install)
+beforehand.  Links to the specific tutorial activities from this repo are
+included in the schedule above. You can also find another relevant repo
+[here](https://github.com/cmaclell/concept_formation), however, the main branch
+of this repo is still being updated and so does not reflect the latest cobweb
+extensions we plan to discuss (e.g., for language and vision tasks). 
 
 ## Prerequisite Knowledge
 This tutorial is tailored to participants with a basic background in computer

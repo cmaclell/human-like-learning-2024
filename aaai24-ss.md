@@ -90,7 +90,7 @@ or an edited book or journal special topic issue.
 | 10:00 | 10:30 | [Learning Fast and Slow: A Redux of Levels of Learning in General Autonomous Intelligent Agents][1130]                   | Shiwali Mohan and John E. Laird                         |
 | 10:30 | 11:00 | Break                                                                                                                    |                                                         | 
 | 11:00 | 11:30 | [Why Should We Care If Machines Learn Human-Like Representations?][2137]                                                 | Ilia Sucholutsky and Thomas L. Griffiths                |
-| 11:30 | 12:00 | [New Explorations of Cobweb as a Model of Human Concep Formation][6604]                                                  | Xin Lian, Sashank Varma, and Christopher J. MacLellan   |
+| 11:30 | 12:00 | [New Explorations of Cobweb as a Model of Human Concept Formation][6604]                                                 | Xin Lian, Sashank Varma, and Christopher J. MacLellan   |
 | 12:00 | 12:30 | [Toward Human-Like Representation Learning for Cognitive Architectures][1740]                                            | Steven Jones and Peter Lindes                           |
 | 12:30 | 2:00  | Lunch                                                                                                                    |                                                         |
 | 2:00  | 2:30  | [Task-driven Risk-bounded Hierarchical Reinforcement Learning Based on Iterative Refinement][5313]                       | Viraj Parimi, Sungkweon Hong and Brian Williams         |
@@ -115,7 +115,7 @@ or an edited book or journal special topic issue.
 
 | Start | End   | Talk Title / Activity                                                                                                    | Authors                                                 |
 |-------|-------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
-| 9:00  | 9:30  | [Analogy as the Swiss Army Knife of Human-like Learning][1125]                                                           | Kenneth Forbus                                          |
+| 9:00  | 9:30  | [Analogy as the Swiss Army Knife of Human-like Learning][1125]                                                           | Kenneth D. Forbus                                       |
 | 9:30  | 10:00 | [Human-Like Learning of Social Reasoning via Analogy][1106]                                                              | Irina Rabkina                                           |
 | 10:00 | 10:30 | [Constructing Deep Concepts through Shallow Search][8449]                                                                | Bonan Zhao, Christopher G. Lucas, and Neil R. Bramley   |
 | 10:30 | 11:00 | Break                                                                                                                    |                                                         | 
@@ -123,9 +123,9 @@ or an edited book or journal special topic issue.
 | 11:30 | 12:00 | [Human-like Learning in Temporally Structured Environments][2351]                                                        | Matt Jones, Tyler Scott and Michael Mozer               |
 | 12:00 | 12:30 | [Pushing the Limits of Learning from Limited Data][0846]                                                                 | Maya Malaviya, Ilia Sucholutsky and Thomas L. Griffiths |
 | 12:30 | 2:00  | Lunch                                                                                                                    |                                                         |
-| 2:00  | 2:30  | Discussion 1: What are the key characteristics of human learning we should aim to reproduce, and how might different approaches reproduce these characteristics? |                 |
-| 2:30  | 3:00  | [Do Large Language Models Learn to Human-Like Learn?][7944]                                                              | Jesse Roberts                                           |
-| 3:00  | 3:30  | [Toward Autonomy: Metacognitive Learning for Enhanced AI Performance][8457]                                              | Brendan Conway-Smith and Robert West                    |
+| 2:00  | 2:30  | [Do Large Language Models Learn to Human-Like Learn?][7944]                                                              | Jesse Roberts                                           |
+| 2:30  | 3:00  | [Toward Autonomy: Metacognitive Learning for Enhanced AI Performance][8457]                                              | Brendan Conway-Smith and Robert West                    |
+| 3:00  | 3:30  | Discussion 1: What are the key characteristics of human learning we should aim to reproduce, and how might different approaches reproduce these characteristics? |                 |
 | 3:30  | 4:00  | Break                                                                                                                    |                                                         |
 | 4:00  | 4:30  | [Turtle-like Geometry Learning: How Humans and Machines Differ in Learning Turtle Geometry][8514]                        | Sina Rismanchian, Shayan Doroudi and Yasaman Razeghi    |
 | 4:30  | 5:00  | [Turing-like Experiment in a Cyber Defense Game][7251]                                                                   | Yinuo Du, Baptiste Prebot and Cleotilde Gonzalez        |
@@ -137,7 +137,7 @@ or an edited book or journal special topic issue.
 | Start | End   | Talk Title / Activity                                                                                                    | Authors                                                 |
 |-------|-------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
 | 9:00  | 9:30  | [Decomposed Inductive Procedure Learning: Learning Academic Tasks with Human-Like Data Efficiency][9731]                 | Daniel Weitekamp                                        |
-| 9:30  | 10:00 | [Modeling Human-Like Acquisition of Language and Concepts][1138]                                                         | Peter Lindes and Steven Jones                           |
+| 9:30  | 10:00 | [Modeling Human-Like Acquisition of Language and Concepts][1388]                                                         | Peter Lindes and Steven Jones                           |
 | 10:00 | 10:30 | [Rapid Acquisition of Hierarchical Plan Knowledge][6869]                                                                 | Pat Langley                                             |
 | 10:30 | 11:00 | Break                                                                                                                    |                                                         |
 | 11:00 | 12:30 | Discussion 3: What are the potential broader impacts of human-like learning research?                                    |                                                         |
@@ -351,7 +351,7 @@ the broader implications for research into human-like learning.
 [0846]: files/ss24-abstracts/SSS-24_Abstract_0846.pdf
 [1125]: files/ss24-abstracts/SSS-24_Abstract_1125.pdf
 [1130]: files/ss24-abstracts/SSS-24_Abstract_1130.pdf
-[1138]: files/ss24-abstracts/SSS-24_Abstract_1138.pdf
+[1388]: files/ss24-abstracts/SSS-24_Abstract_1388.pdf
 [2137]: files/ss24-abstracts/SSS-24_Abstract_2137.pdf
 [2285]: files/ss24-abstracts/SSS-24_Abstract_2285.pdf
 [2686]: files/ss24-abstracts/SSS-24_Abstract_2686.pdf

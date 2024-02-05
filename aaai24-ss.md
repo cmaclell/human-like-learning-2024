@@ -98,7 +98,7 @@ or an edited book or journal special topic issue.
 
 ### Tentative Day 1 Schedule (3/25)
 
-| Start | End   | Talk Title / Activity                                                                                                    | Authors                                                 |
+| Start | End   | Title / Activity                                                                                                         | Authors                                                 |
 |-------|-------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
 | 9:00  | 9:30  | Welcome & Introduction                                                                                                   | Christopher J. MacLellan                                |
 | 9:30  | 10:00 | [The Computational Gauntlet of Human-Like Learning][langley-gauntlet]                                                    | Pat Langley                                             | 
@@ -110,7 +110,7 @@ or an edited book or journal special topic issue.
 | 12:30 | 2:00  | Lunch                                                                                                                    |                                                         |
 | 2:00  | 2:30  | [Task-driven Risk-bounded Hierarchical Reinforcement Learning Based on Iterative Refinement][5313]                       | Viraj Parimi, Sungkweon Hong and Brian Williams         |
 | 2:30  | 3:00  | [Credit Assignment: Challenge and Opportunities in Developing Human-Like Learning Agents][6333]                          | Thuy Ngoc Nguyen, Chase McDonald and Cleotilde Gonzalez |
-| 3:00  | 3:30  | [Algorithmic Decision-Making in Difficult Scenarios][9966]                                                               | Christopher Rauch, Ursula Addison, Michael Floyd,<br/>Goel Prateek, Justin Karneeb, Ray Kulhanek,<br/>Othalia Larue, David Ménager, Mallika Mainali,<br/>Matthew Molineaux, Adam Pease, Anik Sen,<br/>JT Turner and Rosina Weber |
+| 3:00  | 3:30  | [Algorithmic Decision-Making in Difficult Scenarios][9966]                                                               | Christopher Rauch, Ursula Addison, Michael Floyd,<br/>Goel Prateek, Justin Karneeb, Ray Kulhanek,<br/>Othalia Larue, David Ménager, Mallika Mainali,<br/>Matthew Molineaux, Adam Pease, Anik Sen, JT Turner</br>and Rosina Weber |
 | 3:30  | 4:00  | Break                                                                                                                    |                                                         |
 | 4:00  | 5:30  | **Poster Session**                                                                                                       |                                                         |
 |       |       | [Comparing Human Behavior to an Optimal Policy for Innovation][2285]                                                     | Bonan Zhao, Natalia Velez, Thomas L. Griffiths          |
@@ -128,7 +128,7 @@ or an edited book or journal special topic issue.
 
 ### Tentative Day 2 Schedule (3/26)
 
-| Start | End   | Talk Title / Activity                                                                                                    | Authors                                                 |
+| Start | End   | Title / Activity                                                                                                         | Authors                                                 |
 |-------|-------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
 | 9:00  | 9:30  | [Analogy as the Swiss Army Knife of Human-like Learning][1125]                                                           | Kenneth D. Forbus                                       |
 | 9:30  | 10:00 | [Human-Like Learning of Social Reasoning via Analogy][1106]                                                              | Irina Rabkina                                           |
@@ -149,7 +149,7 @@ or an edited book or journal special topic issue.
 
 ### Tentative Day 3 Schedule (3/27)
 
-| Start | End   | Talk Title / Activity                                                                                                    | Authors                                                 |
+| Start | End   | Title / Activity                                                                                                         | Authors                                                 |
 |-------|-------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
 | 9:00  | 9:30  | [Decomposed Inductive Procedure Learning: Learning Academic Tasks with Human-Like Data Efficiency][9731]                 | Daniel Weitekamp                                        |
 | 9:30  | 10:00 | [Modeling Human-Like Acquisition of Language and Concepts][1388]                                                         | Peter Lindes and Steven Jones                           |

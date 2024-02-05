@@ -99,23 +99,17 @@ paradigm.
 
 The tutorial will be structured into three parts, with Q&A sessions in between:
 
-| Part 1: Theory                |
-|-------------------------------|
-| Concept Formation             |
-| Core Cobweb Approach          |
-| Examples with Tabular Data    |
-
-| Part 2: Early Extensions & Applications  |
-|--------------------------------------------|
-| Relational & Structured Representations    |
-| Design                                     |
-| Planning and Problem Solving               |
-
-| Part 3: Recent Extensions & Applications  |
-|-------------------------------------------|
-| Contextual Extensions                     |
-| Language Modeling                         |
-| Vision Modeling                           |
+| Start   | End     | Session                                               | Speaker                  |
+|---------|---------|-------------------------------------------------------|--------------------------|
+| 8:30am  |  9:15am | Foundational Cobweb Theory (35 min talk + 10 min Q&A) | Doug Fisher              |
+| 9:15am  |  9:30am | Hands-On Example of Cobweb with Tabular Data          | Christopher J. MacLellan |
+| 9:30am  | 10:15am | Early Cobweb Extensions (35 min talk + 10 min Q&A)    | Pat Langley              |
+| 10:15am | 10:30am | Hands-On Example of Cobweb with Continuous Data       | Christopher J. MacLellan |
+| 10:30am | 11:00am | Break                                                 | ---                      |
+| 11:00am | 11:45am | Recent Extensions of Cobweb (35 min talk + 10 min Q&A)| Christopher J. MacLellan |
+| 11:45am | 12:00pm | Hands-On Example of Cobweb with Language Data         | Christopher J. MacLellan |
+| 12:00pm | 12:15pm | Hands-On Example of Cobweb with Language Data         | Christopher J. MacLellan |
+| 12:15pm | 12:30pm | Future Directions for Cobweb                          | Christopher J. MacLellan |
 
 ## Prerequisite Knowledge
 This tutorial is tailored to participants with a basic background in computer

@@ -214,101 +214,96 @@ the broader implications for research into human-like learning.
 ## Organization and Schedule
 
 The event will occur at the AAAI Spring Symposium at Stanford from March 25th
-to March 27th. To support the above aims, we plan to dedicate time in the
-schedule for group discussions, so we can work towards a consensus on questions
-like: 
-- What are the key characteristics of human learning that should be reproduced?
-- How do different frameworks reproduce these features?
-- How can we evaluate the adequacy of a given model?
-- What are the broader impacts for human-like learning research?
+to March 27th. The schedule below shows the talk titles / activities and the
+respective authors.
 
-We will have a small number of invited speakers set the context for the
-symposium. The remaining talks will be selected by the organizing committee
-based on abstracts submitted by participants. We aim to solicit around 20
-technical presentations through this process. The talks will be organized into
-thematic groups that will be presented together, with the intention of
-highlighting commonalities across research efforts and paradigms. Each
-presentation will be allotted 30 minutes, with 20 minutes for the presentation
-and 10 minutes for discussion. We also plan to schedule time for general
-reflection and discussion to support the symposium's aims (e.g., discussion of
-the evaluation of human-like learning systems). Exactly when we schedule these
-discussions will depend on the overall scheduling of submissions received, but
-we aim to have some discussion around the end of each day. Below is a tentative
-schedule.
+Each presentation will be allotted 30 minutes, with 20 minutes for the
+presentation and 10 minutes for discussion. The talks are roughly organized
+into thematic groups that will be presented together, with the intention of
+highlighting commonalities across research efforts and paradigms. The first
+session provides a general framing for human-like learning research and
+follow talks explore human-like learning as it relates to representation,
+decision making, analogy, concept learning, language (and LLMs), evaluation,
+and task learning.
+
+In the afternoon of day 1, there will be a 1.5 hour poster session. AAAI will
+provide foam poster boards and easels. Poster boards are 30"x40" and can be
+either portrait or landscape orientation. The first day will conclude with 
+the AAAI symposium reception.
+
+On the second and third day, we have time dedicated for four group discussion
+sessions to explore the following questions:
+- What are the key characteristics of human learning we should aim to
+  reproduce, and how might different approaches reproduce these
+  characteristics?
+- How should we evaluate human-like learning systems?
+- What are the potential broader impacts for human-like learning research?
+
+The symposium will conclude with a discussion on of the steps we should take
+next to advance this reserach program. E.g., we might discuss follow on events
+or an edited book or journal special topic issue.
 
 ### Tentative Day 1 Schedule (3/25)
 
-| Start | End   | Title / Activity                                                                                                         | Authors                                           |
-|-------|-------|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| 9:00  | 9:30  | Welcome & Introduction                                                                                                   | Christopher MacLellan                              |
-| 9:30  | 10:00 | The Computational Gauntlet of Human-Like Learning                                                                        | Pat Langley                                        | 
-| 10:00 | 10:30 | Learning Fast and Slow: A Redux of Levels of Learning in General Autonomous Intelligent Agents                           | Shiwali Mohan and John Laird                       |
-| 10:30 | 11:00 | Break                                                                                                                    |                                                    | 
-| 11:00 | 11:30 | Why Should We Care If Machines Learn Human-Like Representations?                                                         | Ilia Sucholutsky and Thomas Griffiths              |
-| 11:30 | 12:00 | Rational Concept Acquisition and Categorization with Cobweb: Human-Like Learning Meets Human Categorization Plausibility | Xin Lian, Sashank Varma, and Christopher MacLellan |
-| 12:00 | 12:30 | Toward Human-Like Representation Learning for Cognitive Architectures                                                    | Steven Jones and Peter Lindes                      |
-| 12:30 | 2:00  | Lunch                                        ||
-| 2:00  | 2:30  | Task-driven Risk-bounded Hierarchical Reinforcement Learning Based on Iterative Refinement     | Viraj Parimi, Sungkweon Hong and Brian Williams |
-| 2:30  | 3:00  | Credit Assignment: Challenge and Opportunities in Developing Human-Like Learning Agents | Thuy Ngoc Nguyen, Chase McDonald and Cleotilde Gonzalez |
-| 3:00  | 3:30  | Algorithmic Decision-Making in Difficult Scenarios   | Christopher Rauch, Ursula Addison, Michael Floyd, Goel Prateek, Justin Karneeb, Ray Kulhanek, Othalia Larue, David Ménager, Mallika Mainali, Matthew Molineaux, Adam Pease, Anik Sen, Jt Turner and Rosina Weber |
-| 3:30  | 4:00  | Break                                        ||
-| 4:00  | 5:30  | **Poster Session**                               ||
-|       |       | Comparing human behavior to an optimal policy for innovation | Bonan Zhao, Natalia Velez, Thomas Griffiths |
-|       |       | Embodying Human-Like Modes of Balance Control Through Human-In-the-Loop Dyadic Learning | Sheikh Mannan, Vivekanand Vimal, Paul DiZio and Nikhil Krishnaswamy |
-|       |       | A Bayesian approach to learned trust and communication in few and zero-shot multi-agent environments | Timothy Flavin and Sandip Sen |
-|       |       | Teaching Functions with Gaussian Process Regression | Maya Malaviya and Mark Ho |
-|       |       | Imparting Translation Concepts to Large Language Models: Challenges with Instructional and Few-Shot Approach | Ming Qian and Chuiqing Kong |
-|       |       | Capturing Subjective Aesthetic Expertise through Designer-Like Learning and Practice | Yaliang Chuang and Poyang David Huang |
-|       |       | A Neural-symbolic Model of Affective AI Agents' Decision-making Behaviors under Risk | Jonathan C.H. Tong, Yung-Fong Hsu and Churn-Jung Liau |
-|       |       | Learning Decision-Making Functions Given Cardinal and Ordinal Consensus Data | Kanad Pardeshi, Aarti Singh, Ariel Procaccia and Itai Shapira |
-|       |       | A Model of Cognizing Supporting the Origination of Cognizing in Nature | Edward Pgossian |
-|       |       | FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design | Yangyang Yu, Haohang Li, Zhi Chen, Yuechen Jiang, Yang Li, Denghui Zhang, Rong Liu, Jordan Suchow and Khaldoun Khashanah |
-|       |       | Toward More Reliable Learning Models through Human-Inspired Learning | Nicki Barari, Christopher MacLellan and Edward Kim |
-| 6:00  | 7:00  | AAAI Symposium Reception                     ||
+| Start | End   | Talk Title / Activity                                                                                                    | Authors                                                 |
+|-------|-------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+| 9:00  | 9:30  | Welcome & Introduction                                                                                                   | Christopher MacLellan                                   |
+| 9:30  | 10:00 | The Computational Gauntlet of Human-Like Learning                                                                        | Pat Langley                                             | 
+| 10:00 | 10:30 | Learning Fast and Slow: A Redux of Levels of Learning in General Autonomous Intelligent Agents                           | Shiwali Mohan and John Laird                            |
+| 10:30 | 11:00 | Break                                                                                                                    |                                                         | 
+| 11:00 | 11:30 | Why Should We Care If Machines Learn Human-Like Representations?                                                         | Ilia Sucholutsky and Thomas Griffiths                   |
+| 11:30 | 12:00 | Rational Concept Acquisition and Categorization with Cobweb: Human-Like Learning Meets Human Categorization Plausibility | Xin Lian, Sashank Varma, and Christopher MacLellan      |
+| 12:00 | 12:30 | Toward Human-Like Representation Learning for Cognitive Architectures                                                    | Steven Jones and Peter Lindes                           |
+| 12:30 | 2:00  | Lunch                                                                                                                    |                                                         |
+| 2:00  | 2:30  | Task-driven Risk-bounded Hierarchical Reinforcement Learning Based on Iterative Refinement                               | Viraj Parimi, Sungkweon Hong and Brian Williams         |
+| 2:30  | 3:00  | Credit Assignment: Challenge and Opportunities in Developing Human-Like Learning Agents                                  | Thuy Ngoc Nguyen, Chase McDonald and Cleotilde Gonzalez |
+| 3:00  | 3:30  | Algorithmic Decision-Making in Difficult Scenarios                                                                       | Christopher Rauch, Ursula Addison, Michael Floyd, Goel Prateek, Justin Karneeb, Ray Kulhanek, Othalia Larue, David Ménager, Mallika Mainali, Matthew Molineaux, Adam Pease, Anik Sen, Jt Turner and Rosina Weber |
+| 3:30  | 4:00  | Break                                                                                                                    |                                                         |
+| 4:00  | 5:30  | **Poster Session**                                                                                                       |                                                         |
+|       |       | Comparing human behavior to an optimal policy for innovation                                                             | Bonan Zhao, Natalia Velez, Thomas Griffiths             |
+|       |       | Embodying Human-Like Modes of Balance Control Through Human-In-the-Loop Dyadic Learning                                  | Sheikh Mannan, Vivekanand Vimal, Paul DiZio and Nikhil Krishnaswamy |
+|       |       | A Bayesian approach to learned trust and communication in few and zero-shot multi-agent environments                     | Timothy Flavin and Sandip Sen                           |
+|       |       | Teaching Functions with Gaussian Process Regression                                                                      | Maya Malaviya and Mark Ho                               |
+|       |       | Imparting Translation Concepts to Large Language Models: Challenges with Instructional and Few-Shot Approach             | Ming Qian and Chuiqing Kong                             |
+|       |       | Capturing Subjective Aesthetic Expertise through Designer-Like Learning and Practice                                     | Yaliang Chuang and Poyang David Huang                   |
+|       |       | A Neural-symbolic Model of Affective AI Agents' Decision-making Behaviors under Risk                                     | Jonathan C.H. Tong, Yung-Fong Hsu and Churn-Jung Liau   |
+|       |       | Learning Decision-Making Functions Given Cardinal and Ordinal Consensus Data                                             | Kanad Pardeshi, Aarti Singh, Ariel Procaccia and Itai Shapira |
+|       |       | A Model of Cognizing Supporting the Origination of Cognizing in Nature                                                   | Edward Pgossian                                         |
+|       |       | FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design                                | Yangyang Yu, Haohang Li, Zhi Chen, Yuechen Jiang, Yang Li, Denghui Zhang, Rong Liu, Jordan Suchow and Khaldoun Khashanah |
+|       |       | Toward More Reliable Learning Models through Human-Inspired Learning                                                     | Nicki Barari, Christopher MacLellan and Edward Kim      |
+| 6:00  | 7:00  | AAAI Symposium Reception                                                                                                 |                                                         |
 
 ### Tentative Day 2 Schedule (3/26)
 
-| Start | End   | Title / Activity                                     | Authors |
-|-------|-------|----------------------------------------------|
-| 9:00  | 9:30  | Analogy as the Swiss Army Knife of Human-like Learning                     | Kenneth Forbus |
-| 9:30  | 10:00 | Human-Like Learning of Social Reasoning via Analogy                     | Irina Rabkina |
-| 10:00 | 10:30 | Constructing Deep Concepts through Shallow Search                     | Bonan Zhao, Christopher G. Lucas, and Neil R. Bramley |
-| 10:30 | 11:00 | Break                                        || 
-| 11:00 | 11:30 | Avoiding Catastrophic Forgetting in Visual Classification using Human-Like Concept Formation  | Nicki Barari, Xin Lian and Christopher MacLellan |
-| 11:30 | 12:00 | Human-like Learning in Temporally Structured Environments                    | Matt Jones, Tyler Scott and Michael Mozer |
-| 12:00 | 12:30 | Pushing the Limits of Learning from Limited Data         | Maya Malaviya, Ilia Sucholutsky and Thomas Griffiths |
-| 12:30 | 2:00  | Lunch                                        ||
-| 2:00  | 2:30  | Discussion Session                           ||
-| 2:30  | 3:00  | Do Large Language Models Learn to Human-Like Learn?  | Jesse Roberts |
-| 3:00  | 3:30  | Toward Autonomy: Metacognitive Learning for Enhanced AI Performance  | Brendan Conway-Smith and Robert West |
-| 3:30  | 4:00  | Break                                        ||
-| 4:00  | 4:30  | Turtle-like Geometry Learning: How Humans and Machines Differ in Learning Turtle Geometry | Sina Rismanchian, Shayan Doroudi and Yasaman Razeghi |
-| 4:30  | 5:00  | Turing-like Experiment in a Cyber Defense Game  | Yinuo Du, Baptiste Prebot and Cleotilde Gonzalez |
-| 5:00  | 5:30  | Reflection & Discussion Session              ||
-| 6:00  | 7:00  | AAAI Plenary Session                         ||
+| Start | End   | Talk Title / Activity                                                                                                    | Authors                                                 |
+|-------|-------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+| 9:00  | 9:30  | Analogy as the Swiss Army Knife of Human-like Learning                                                                   | Kenneth Forbus                                          |
+| 9:30  | 10:00 | Human-Like Learning of Social Reasoning via Analogy                                                                      | Irina Rabkina                                           |
+| 10:00 | 10:30 | Constructing Deep Concepts through Shallow Search                                                                        | Bonan Zhao, Christopher G. Lucas, and Neil R. Bramley   |
+| 10:30 | 11:00 | Break                                                                                                                    |                                                         | 
+| 11:00 | 11:30 | Avoiding Catastrophic Forgetting in Visual Classification using Human-Like Concept Formation                             | Nicki Barari, Xin Lian and Christopher MacLellan        |
+| 11:30 | 12:00 | Human-like Learning in Temporally Structured Environments                                                                | Matt Jones, Tyler Scott and Michael Mozer               |
+| 12:00 | 12:30 | Pushing the Limits of Learning from Limited Data                                                                         | Maya Malaviya, Ilia Sucholutsky and Thomas Griffiths    |
+| 12:30 | 2:00  | Lunch                                                                                                                    |                                                         |
+| 2:00  | 2:30  | Discussion 1: What are the key characteristics of human learning we should aim to reproduce, and how might different approaches reproduce these characteristics? |                 |
+| 2:30  | 3:00  | Do Large Language Models Learn to Human-Like Learn?                                                                      | Jesse Roberts                                           |
+| 3:00  | 3:30  | Toward Autonomy: Metacognitive Learning for Enhanced AI Performance                                                      | Brendan Conway-Smith and Robert West                    |
+| 3:30  | 4:00  | Break                                                                                                                    |                                                         |
+| 4:00  | 4:30  | Turtle-like Geometry Learning: How Humans and Machines Differ in Learning Turtle Geometry                                | Sina Rismanchian, Shayan Doroudi and Yasaman Razeghi    |
+| 4:30  | 5:00  | Turing-like Experiment in a Cyber Defense Game                                                                           | Yinuo Du, Baptiste Prebot and Cleotilde Gonzalez        |
+| 5:00  | 5:30  | Discussion 2: How should we evaluate human-like learning systems?                                                        |                                                         |
+| 6:00  | 7:00  | AAAI Plenary Session                                                                                                     |                                                         |
 
 ### Tentative Day 3 Schedule (3/27)
 
-| Start | End   | Authors                       | Activity                                                                                           |
-|-------|-------|-------------------------------|----------------------------------------------------------------------------------------------------|
-| 9:00  | 9:30  | Daniel Weitekamp              | Decomposed Inductive Procedure Learning: Learning Academic Tasks with Human-Like Data Efficiency   |
-| 9:30  | 10:00 | Peter Lindes and Steven Jones | Modeling Human-Like Acquisition of Language and Concepts                                           |
-| 10:00 | 10:30 | Pat Langley                   | Rapid Acquisition of Hierarchical Plan Knowledge                                                   |
-| 10:30 | 11:00 |                               | Break                                                                                              |
-| 11:00 | 12:30 |                               | Reflection & Discussion Session                                                                    |
-
-We believe that this structure will encourage high-quality interaction among
-participants and foster cross-paradigm communication and collaboration. By
-emphasizing discussion of key human learning capabilities rather than centering
-the discussion on methodologies, we hope to make the symposium broadly
-accessible to researchers from different perspectives and paradigms. By
-intentionally grouping talks to highlight similarities across efforts, we hope
-to promote discussion across perspectives and methodologies. Finally, by
-discussing evaluation and broader impacts, we hope to support the creation of a
-community of dedicated researchers who are enthusiastic about investigating
-human-like learning. This in turn should promote additional research in this
-important area. If there is sufficient interest, we will organize a publication
-(e.g., a journal special issue) that reports results from the event.
+| Start | End   | Talk Title / Activity                                                                                                    | Authors                                                 |
+|-------|-------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+| 9:00  | 9:30  | Decomposed Inductive Procedure Learning: Learning Academic Tasks with Human-Like Data Efficiency                         | Daniel Weitekamp                                        |
+| 9:30  | 10:00 | Modeling Human-Like Acquisition of Language and Concepts                                                                 | Peter Lindes and Steven Jones                           |
+| 10:00 | 10:30 | Rapid Acquisition of Hierarchical Plan Knowledge                                                                         | Pat Langley                                             |
+| 10:30 | 11:00 | Break                                                                                                                    |                                                         |
+| 11:00 | 12:30 | Discussion 3: What are the potential broader impacts of human-like learning research?                                    |                                                         |
+| 11:00 | 12:30 | Final Discussion: What steps should we take after the symposium to advance this reserach program?                        |                                                         |
 
 ## Symposium Organizers
 

@@ -122,7 +122,7 @@ or an edited book or journal special topic issue.
 |       |       | [An Exploring Study on Building Affective Artificial Intelligence by Neural-Symbolic Computing][8203]                    | Jonathan C.H. Tong, Yung-Fong Hsu and Churn-Jung Liau   |
 |       |       | [Learning Decision-Making Functions Given Cardinal and Ordinal Consensus Data][9005]                                     | Kanad Pardeshi, Aarti Singh, Ariel Procaccia and Itai Shapira |
 |       |       | [A Model of Cognizing Supporting the Origination of Cognizing in Nature][9555]                                           | Edward Pgossian                                         |
-|       |       | [FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design][9736]                        | Yangyang Yu, Haohang Li, Zhi Chen, Yuechen Jiang,<br/>Yang Li, Denghui Zhang, Rong Liu,<br/>Jordan Suchow and Khaldoun Khashanah |
+|       |       | [FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design][9736]                        | Yangyang Yu, Haohang Li, Zhi Chen,<br/>Yuechen Jiang, Yang Li, Denghui Zhang,<br/>Rong Liu, Jordan Suchow and Khaldoun Khashanah |
 |       |       | [Toward More Reliable Learning Models through Human-Inspired Learning][9871]                                             | Nicki Barari, Christopher J. MacLellan and Edward Kim   |
 | 6:00  | 7:00  | AAAI Symposium Reception                                                                                                 |                                                         |
 

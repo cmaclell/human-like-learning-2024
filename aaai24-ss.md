@@ -17,9 +17,13 @@ order: 1
 | AAAI Symposium Registration Opens                 | January 10th, 2024  |
 | Selected Presenters Notified                      | ~~January 5th, 2024~~<br/> January 15, 2024  |
 | Finalized Abstracts Due from Authors              | ~~January 19th, 2024~~<br/> January, 26, 2024 |
-| Deadline for Registration                         | Febuary 29th, 2024  |
+| AAAI Proceedings Camera Ready Copy Deadline       | Febuary 15th, 2024  |
+| Deadline for Symposium Registration               | Febuary 29th, 2024  |
 | Finalized Schedule Released                       | March 2nd, 2024     |
 | Symposium Takes Place at Stanford University      | March 25-27, 2024   |
+
+### Registration Details
+You can register at the [AAAI 2024 Spring Symposium page](https://aaai.org/conference/spring-symposia/sss24/).
 
 ### Speaker and Poster Presenter Details
 - Each speaker will each be alloted 30 minutes, with 20 minutes for their
@@ -44,9 +48,20 @@ order: 1
 - Submissions not selected for talks will be invited to participate in a poster session.
 - If there is interest at the symposia, we will explore a possible journal
   special issue or edited volume based on submissions. 
-
-### Registration Details
-You can register at the [AAAI 2024 Spring Symposium page](https://aaai.org/conference/spring-symposia/sss24/).
+- SSS-24 accepted authors will have the opportunity to publish their work with
+  AAAI Press in the Proceedings of the AAAI Symposium Series. The AAAI CRC will be
+  collected via a separate platform. Authors should NOT upload the AAAI CRC to
+  Easy Chair. Authors with accepted papers should expect to receive an email
+  invitation to submit their files to the AAAI CRC site from
+  proceedings-questions@aaai.org. If you do not receive AAAI CRC submission
+  instructions within two weeks of the CRC deadline, please check your spam inbox
+  and contact proceedings-questions@aaai.org. If authors are interested in having
+  work published by AAAI Press, note that the proceedings will NOT be published
+  before the program. Note: Participating in the Proceedings of the AAAI
+  Symposium Series publication is optional. If you do not want your paper
+  published, please ignore e-mails from proceedings-questions@aaai.org. If you do
+  not submit anything by the AAAI CRC deadline, then we will understand that you
+  are opting out of the proceedings.
 
 ## Symposium Schedule
 
@@ -95,7 +110,7 @@ or an edited book or journal special topic issue.
 | 12:30 | 2:00  | Lunch                                                                                                                    |                                                         |
 | 2:00  | 2:30  | [Task-driven Risk-bounded Hierarchical Reinforcement Learning Based on Iterative Refinement][5313]                       | Viraj Parimi, Sungkweon Hong and Brian Williams         |
 | 2:30  | 3:00  | [Credit Assignment: Challenge and Opportunities in Developing Human-Like Learning Agents][6333]                          | Thuy Ngoc Nguyen, Chase McDonald and Cleotilde Gonzalez |
-| 3:00  | 3:30  | [Algorithmic Decision-Making in Difficult Scenarios][9966]                                                               | Christopher Rauch, Ursula Addison, Michael Floyd, Goel Prateek, Justin Karneeb, Ray Kulhanek, Othalia Larue, David Ménager, Mallika Mainali, Matthew Molineaux, Adam Pease, Anik Sen, JT Turner and Rosina Weber |
+| 3:00  | 3:30  | [Algorithmic Decision-Making in Difficult Scenarios][9966]                                                               | Christopher Rauch, Ursula Addison, Michael Floyd,</br>Goel Prateek, Justin Karneeb, Ray Kulhanek,</br>Othalia Larue, David Ménager, Mallika Mainali,</br>Matthew Molineaux, Adam Pease, Anik Sen,</br>JT Turner and Rosina Weber |
 | 3:30  | 4:00  | Break                                                                                                                    |                                                         |
 | 4:00  | 5:30  | **Poster Session**                                                                                                       |                                                         |
 |       |       | [Comparing Human Behavior to an Optimal Policy for Innovation][2285]                                                     | Bonan Zhao, Natalia Velez, Thomas L. Griffiths          |
@@ -107,7 +122,7 @@ or an edited book or journal special topic issue.
 |       |       | [An Exploring Study on Building Affective Artificial Intelligence by Neural-Symbolic Computing][8203]                    | Jonathan C.H. Tong, Yung-Fong Hsu and Churn-Jung Liau   |
 |       |       | [Learning Decision-Making Functions Given Cardinal and Ordinal Consensus Data][9005]                                     | Kanad Pardeshi, Aarti Singh, Ariel Procaccia and Itai Shapira |
 |       |       | [A Model of Cognizing Supporting the Origination of Cognizing in Nature][9555]                                           | Edward Pgossian                                         |
-|       |       | [FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design][9736]                        | Yangyang Yu, Haohang Li, Zhi Chen, Yuechen Jiang, Yang Li, Denghui Zhang, Rong Liu, Jordan Suchow and Khaldoun Khashanah |
+|       |       | [FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design][9736]                        | Yangyang Yu, Haohang Li, Zhi Chen, Yuechen Jiang,</br>Yang Li, Denghui Zhang, Rong Liu,</br>Jordan Suchow and Khaldoun Khashanah |
 |       |       | [Toward More Reliable Learning Models through Human-Inspired Learning][9871]                                             | Nicki Barari, Christopher J. MacLellan and Edward Kim   |
 | 6:00  | 7:00  | AAAI Symposium Reception                                                                                                 |                                                         |
 

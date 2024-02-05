@@ -87,7 +87,7 @@ or an edited book or journal special topic issue.
 |-------|-------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
 | 9:00  | 9:30  | Welcome & Introduction                                                                                                   | Christopher J. MacLellan                                |
 | 9:30  | 10:00 | [The Computational Gauntlet of Human-Like Learning][langley-gauntlet]                                                    | Pat Langley                                             | 
-| 10:00 | 10:30 | [Learning Fast and Slow: A Redux of Levels of Learning in General Autonomous Intelligent Agents][1130]                   | Shiwali Mohan and John Laird                            |
+| 10:00 | 10:30 | [Learning Fast and Slow: A Redux of Levels of Learning in General Autonomous Intelligent Agents][1130]                   | Shiwali Mohan and John E. Laird                         |
 | 10:30 | 11:00 | Break                                                                                                                    |                                                         | 
 | 11:00 | 11:30 | [Why Should We Care If Machines Learn Human-Like Representations?][2137]                                                 | Ilia Sucholutsky and Thomas L. Griffiths                |
 | 11:30 | 12:00 | [New Explorations of Cobweb as a Model of Human Concep Formation][6604]                                                  | Xin Lian, Sashank Varma, and Christopher J. MacLellan   |
@@ -375,8 +375,8 @@ the broader implications for research into human-like learning.
 [9736]: files/ss24-abstracts/SSS-24_Abstract_9736.pdf
 [9871]: files/ss24-abstracts/SSS-24_Abstract_9871.pdf
 [9966]: files/ss24-abstracts/SSS-24_Abstract_9966.pdf
-[1106]: files/ss24-abstracts/SSS-24_Abstract_1106.pdf
-[6604]: files/ss24-abstracts/SSS-24_Abstract_6604.pdf
-[9555]: files/ss24-abstracts/SSS-24_Abstract_9555.pdf
-[1740]: files/ss24-abstracts/SSS-24_Abstract_1740.pdf
+[1106]: files/ss24-abstracts/SSS-24_paper_1106.pdf
+[6604]: files/ss24-abstracts/SSS-24_paper_6604.pdf
+[9555]: files/ss24-abstracts/SSS-24_paper_9555.pdf
+[1740]: files/ss24-abstracts/SSS-24_Proposal_1740.pdf
 [2351]: files/ss24-abstracts/SSS-24_Abstract_2351.pdf

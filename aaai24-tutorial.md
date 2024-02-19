@@ -81,12 +81,12 @@ The tutorial will be structured into three parts, with additional Q&A sessions a
 
 | Start   | End     | Session                                               | Speaker                  |
 |---------|---------|-------------------------------------------------------|--------------------------|
-| 8:30am  |  9:15am | [Overview of Basic Cobweb](tutorial-slides/Fisher-Overview-of-Basic-Cobweb.pdf) (35 min talk + 10 min Q&A) | Doug Fisher              |
+| 8:30am  |  9:15am | [Overview of Basic Cobweb](/files/tutorial-slides/Fisher-Overview-of-Basic-Cobweb.pdf) (35 min talk + 10 min Q&A) | Doug Fisher              |
 | 9:15am  |  9:30am | [Hands-On Example of Cobweb with Tabular Data](https://github.com/Teachable-AI-Lab/cobweb/blob/main/examples/tabular/)          | Christopher J. MacLellan |
-| 9:30am  | 10:15am | [Early Extensions to Cobweb](tutorial-slides/Langley-Cobweb-Extensions.pdf) (35 min talk + 10 min Q&A)    | Pat Langley              |
+| 9:30am  | 10:15am | [Early Extensions to Cobweb](files/tutorial-slides/Langley-Cobweb-Extensions.pdf) (35 min talk + 10 min Q&A)    | Pat Langley              |
 | 10:15am | 10:30am | [Hands-On Example of Cobweb with Continuous Data](https://github.com/Teachable-AI-Lab/cobweb/tree/main/examples/continuous)     | Christopher J. MacLellan |
 | 10:30am | 11:00am | Break                                                 | ---                      |
-| 11:00am | 11:45am | [Cobweb: New & Future Directions](tutorial-slides/MacLellan-cobweb-new-and-future-directions.pdf) (35 min talk + 10 min Q&A) | Christopher J. MacLellan |
+| 11:00am | 11:45am | [Cobweb: New & Future Directions](files/tutorial-slides/MacLellan-cobweb-new-and-future-directions.pdf) (35 min talk + 10 min Q&A) | Christopher J. MacLellan |
 | 11:45am | 12:00pm | [Hands-On Example of Cobweb on a Vision Task](https://github.com/Teachable-AI-Lab/cobweb/tree/main/examples/vision)          | Christopher J. MacLellan |
 | 12:00pm | 12:15pm | [Hands-On Example of Cobweb on a Language Task](https://github.com/Teachable-AI-Lab/cobweb/tree/main/examples/language-roc)            | Christopher J. MacLellan |
 | 12:15pm | 12:30pm | General Q&A                          | --- |

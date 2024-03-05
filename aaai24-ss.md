@@ -118,7 +118,7 @@ or an edited book or journal special topic issue.
 |       |       | [A Bayesian Approach to Learning Command Hierarchies for Coordination in Zero and Few-Shot Multi-Agent Scenarios][3530]  | Timothy Flavin and Sandip Sen                           |
 |       |       | [Teaching Functions with Gaussian Process Regression][3703]                                                              | Maya Malaviya and Mark K. Ho                            |
 |       |       | [Concept-Centric Prompts and Translation Memory for Enhanced Machine Translation with Large Language Models][6352]       | Ming Qian and Chuiqing Kong                             |
-|       |       | [Capturing Subjective Aesthetic Expertise through Designer-Like Learning and Practice][7933]                             | Yaliang Chuang and Poyang David Huang                   |
+|       |       | [Learning Aesthetic Knowledge with Designer-Like Thinking and Interactive Machine Teaching][7933]                             | Yaliang Chuang and Poyang David Huang                   |
 |       |       | [An Exploring Study on Building Affective Artificial Intelligence by Neural-Symbolic Computing][8203]                    | Jonathan C.H. Tong, Yung-Fong Hsu and Churn-Jung Liau   |
 |       |       | [Learning Decision-Making Functions Given Cardinal and Ordinal Consensus Data][9005]                                     | Kanad Pardeshi, Aarti Singh, Ariel Procaccia and Itai Shapira |
 |       |       | [A Model of Cognizing Supporting the Origination of Cognizing in Nature][9555]                                           | Edward Pgossian                                         |

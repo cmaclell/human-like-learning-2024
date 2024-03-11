@@ -38,7 +38,7 @@ order: 1
   Poster boards are 30"x40" and can be either portrait or landscape
   orientation.
 
-## Parking Information
+### Parking Information
 
 - General information:
   https://transportation.stanford.edu/how-purchase-visitor-parking

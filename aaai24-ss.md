@@ -22,8 +22,14 @@ order: 1
 | Finalized Schedule Released                       | March 2nd, 2024     |
 | Symposium Takes Place at Stanford University      | March 25-27, 2024   |
 
-### Registration Details
-You can register at the [AAAI 2024 Spring Symposium page](https://aaai.org/conference/spring-symposia/sss24/).
+### Event Location
+
+- All Symposia Rooms will be in the Lane History Corner/Bldg. 200 – located at
+  450 Jane Stanford Way Bldg 200, Stanford, CA 94305.
+- AAAI is still waiting for Stanford to confirm the use of the poster room,
+  which may affect room assignments.
+- Reception – Tresidder Oak Lounge, second floor of the Tresidder Student Union Building
+- Plenary Session – [Bishop Auditorium](https://events.stanford.edu/bishop_auditorium)
 
 ### Speaker and Poster Presenter Details
 - Each speaker will each be alloted 30 minutes, with 20 minutes for their
@@ -31,6 +37,9 @@ You can register at the [AAAI 2024 Spring Symposium page](https://aaai.org/confe
 - For the poster presenters, AAAI will provide foam poster boards and easels.
   Poster boards are 30"x40" and can be either portrait or landscape
   orientation.
+
+### Registration Details
+You can register at the [AAAI 2024 Spring Symposium page](https://aaai.org/conference/spring-symposia/sss24/).
 
 ### Submission Details
 - We invite submissions of abstracts. We have no hard length requirements, but

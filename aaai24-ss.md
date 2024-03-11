@@ -41,12 +41,12 @@ order: 1
 ### Parking Information
 
 - General information:
-  https://transportation.stanford.edu/how-purchase-visitor-parking
+  <https://transportation.stanford.edu/how-purchase-visitor-parking>
 - “How to” guide for visitor zone parking :
-  https://transportation.stanford.edu/how-guide-visitor-zone-parking
+  <https://transportation.stanford.edu/how-guide-visitor-zone-parking>
 - Link to the map with parking zone numbers. Lots 7282 and 7213 are the closest
   for Symposia sessions.
-  https://drive.google.com/file/d/1VCyTJOvNkDE43PpLI-cGtR30hylolWuo/view
+  <https://drive.google.com/file/d/1VCyTJOvNkDE43PpLI-cGtR30hylolWuo/view>
 
 ### Registration Details
 You can register at the [AAAI 2024 Spring Symposium page](https://aaai.org/conference/spring-symposia/sss24/).
@@ -58,7 +58,7 @@ You can register at the [AAAI 2024 Spring Symposium page](https://aaai.org/confe
   organizing committee to determine the focus and substance of your proposed
   talk for planning purposes. Also, we plan to link to the titles/abstracts in
   the schedule and symposia proceedings.
-- Abstracts should be formatted using the AAAI Author Kit (https://aaai.org/authorkit24-2/).
+- Abstracts should be formatted using the AAAI Author Kit (<https://aaai.org/authorkit24-2/>).
 - Submit abstracts via [EasyChair](https://easychair.org/my/conference?conf=sss24) to the "Symposium
   on Human-Like Learning".
 - Participants will have the opportunity to finalize their abstract (by January

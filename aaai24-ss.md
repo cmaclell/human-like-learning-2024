@@ -38,6 +38,16 @@ order: 1
   Poster boards are 30"x40" and can be either portrait or landscape
   orientation.
 
+## Parking Information
+
+- General information:
+  https://transportation.stanford.edu/how-purchase-visitor-parking
+- “How to” guide for visitor zone parking :
+  https://transportation.stanford.edu/how-guide-visitor-zone-parking
+- Link to the map with parking zone numbers. Lots 7282 and 7213 are the closest
+  for Symposia sessions.
+  https://drive.google.com/file/d/1VCyTJOvNkDE43PpLI-cGtR30hylolWuo/view
+
 ### Registration Details
 You can register at the [AAAI 2024 Spring Symposium page](https://aaai.org/conference/spring-symposia/sss24/).
 

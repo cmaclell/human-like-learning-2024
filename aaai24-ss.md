@@ -26,8 +26,8 @@ order: 1
 
 - All Symposia Rooms will be in the Lane History Corner/Bldg. 200 – located at
   450 Jane Stanford Way Bldg 200, Stanford, CA 94305.
-- AAAI is still waiting for Stanford to confirm the use of the poster room,
-  which may affect room assignments.
+- Our symposium will be located in **Room 105**.
+- The poster session will take place just outside of the building. 
 - Reception – Tresidder Oak Lounge, second floor of the Tresidder Student Union Building
 - Plenary Session – [Bishop Auditorium](https://events.stanford.edu/bishop_auditorium)
 
@@ -115,7 +115,7 @@ The symposium will conclude with a discussion of the steps we should take
 next to advance this research program. E.g., we might discuss follow on events
 or an edited book or journal special topic issue.
 
-### Tentative Day 1 Schedule (3/25)
+### Day 1 Schedule (3/25)
 
 | Start | End   | Title / Activity                                                                                                         | Authors                                                 |
 |-------|-------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
@@ -140,12 +140,11 @@ or an edited book or journal special topic issue.
 |       |       | [Learning Aesthetic Knowledge with Designer-Like Thinking and Interactive Machine Teaching][7933]                             | Yaliang Chuang and Poyang David Huang                   |
 |       |       | [An Exploring Study on Building Affective Artificial Intelligence by Neural-Symbolic Computing][8203]                    | Jonathan C.H. Tong, Yung-Fong Hsu and Churn-Jung Liau   |
 |       |       | [Learning Decision-Making Functions Given Cardinal and Ordinal Consensus Data][9005]                                     | Kanad Pardeshi, Aarti Singh, Ariel Procaccia and Itai Shapira |
-|       |       | [A Model of Cognizing Supporting the Origination of Cognizing in Nature][9555]                                           | Edward Pgossian                                         |
 |       |       | [FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design][9736]                        | Yangyang Yu, Haohang Li,<br/>Zhi Chen, Yuechen Jiang,<br/>Yang Li, Denghui Zhang,<br/>Rong Liu, Jordan Suchow<br/>and Khaldoun Khashanah |
 |       |       | [Toward More Reliable Learning Models through Human-Inspired Learning][9871]                                             | Nicki Barari, Christopher J. MacLellan and Edward Kim   |
 | 6:00  | 7:00  | AAAI Symposium Reception                                                                                                 |                                                         |
 
-### Tentative Day 2 Schedule (3/26)
+### Day 2 Schedule (3/26)
 
 | Start | End   | Title / Activity                                                                                                         | Authors                                                 |
 |-------|-------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
@@ -166,7 +165,7 @@ or an edited book or journal special topic issue.
 | 5:00  | 5:30  | Discussion 2: How should we evaluate human-like learning systems?                                                        |                                                         |
 | 6:00  | 7:00  | AAAI Plenary Session                                                                                                     |                                                         |
 
-### Tentative Day 3 Schedule (3/27)
+### Day 3 Schedule (3/27)
 
 | Start | End   | Title / Activity                                                                                                         | Authors                                                 |
 |-------|-------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
